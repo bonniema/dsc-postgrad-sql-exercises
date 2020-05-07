@@ -18,8 +18,8 @@ If you have trouble completing these exercises, we recommend coming back to this
 
 If you have already completed these activities or have additional time, here are more exercises we recommend.
 
-1. Complete the Hackerrank [Hard SQL Exercises](https://www.hackerrank.com/domains/sql?filters%5Bdifficulty%5D%5B%5D=hard)
-2. Complete the following LeetCode exercises:
+1. Complete the Hackerrank [Hard SQL Exercises](https://www.hackerrank.com/domains/sql?filters%5Bdifficulty%5D%5B%5D=hard). These should take about 1 hour.
+2. Complete the following LeetCode exercises - they should take about 3 hours in total:
   * [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
   * [Trips and Users](https://leetcode.com/problems/trips-and-users/)
   * [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)
