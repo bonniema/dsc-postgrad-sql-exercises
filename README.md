@@ -6,13 +6,13 @@ Fluently write SQL queries for challenging prompts
 
 ## Overview
 
-Now that you've advanced your SQL skills in Week 2, let's reinforce them with some practice exercises. This will build your SQL confidence and prepare you to complete similar exercises during technical interviews.
+Now that you've refreshed your SQL skills in Week 1, let's reinforce them with some practice exercises. This will build your SQL confidence and prepare you to complete similar exercises during technical interviews.
 
 ## Main Activity
 
 We recommend completing the Hackerrank [Medium SQL Exercises](https://www.hackerrank.com/domains/sql?filters%5Bdifficulty%5D%5B%5D=medium). We anticipate that these will take about 5 hours to complete.
 
-If you have trouble completing these exercises, we recommend coming back to this after completing the Hackerrank [Easy SQL Exercises](https://www.hackerrank.com/domains/sql?filters%5Bdifficulty%5D%5B%5D=easy) and doing the main and supplemental activities from SQL Weeks 1 and 2.
+If you have trouble completing these exercises, we recommend coming back to this after completing the Hackerrank [Easy SQL Exercises](https://www.hackerrank.com/domains/sql?filters%5Bdifficulty%5D%5B%5D=easy) and doing the main and supplemental activities from SQL Week 1.
 
 ## Supplemental Activities
 
