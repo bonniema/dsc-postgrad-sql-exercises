@@ -1,12 +1,15 @@
 # SQL Query Exercises
 
-## Learning Goals
 
-Fluently write SQL queries for challenging prompts
-
-## Overview
+## Introduction
 
 Now that you've refreshed your SQL skills in Week 1, let's reinforce them with some practice exercises. This will build your SQL confidence and prepare you to complete similar exercises during technical interviews.
+
+## Objectives
+
+You will be able to:
+
+- Fluently write SQL queries for challenging prompts
 
 ## Main Activity
 
@@ -24,3 +27,8 @@ If you have already completed these activities or have additional time, here are
   * [Trips and Users](https://leetcode.com/problems/trips-and-users/)
   * [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)
   * [Exchange Seats](https://leetcode.com/problems/exchange-seats/)
+
+
+## Summary
+
+Congrats for completing these SQL Query Exercises - we guarantee you that the extra practice will pay off!
